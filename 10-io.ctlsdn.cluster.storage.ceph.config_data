@@ -1,0 +1,7 @@
+kernel.pid_max=4194303
+fs.file-max=26234859
+vm.zone_reclaim_mode=0
+vm.vfs_cache_pressure=50
+vm.swappiness=10
+fs.aio-max-nr=196608
+vm.dirty_ratio=40
